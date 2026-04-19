@@ -1,1 +1,1 @@
-# Combinatoric
+# Combinatorics
